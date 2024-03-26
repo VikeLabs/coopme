@@ -1,11 +1,20 @@
 <div align="left"><a href="https://github.com/VikeLabs/Co-op-Me"><img src="https://capsule-render.vercel.app/api?type=rect&height=103&color=dark&text=coopme&fontColor=ffffff"></a></div>
-CourseUp is a website built to simplify the experience of searching courses and building timetables for the [University of Victoria](https://uvic.ca) (UVic). The website is a TypeScript app which uses React on the front-end and Firebase on the back-end.
-
 [![Contributors][contributors-shield]][contributors-link]
 [![Stargazers][stars-shield]][stars-link]
 [![Issues][issues-shield]][issues-link]
 <!-- [![Website][website-staging-shield]][website-staging-link] -->
 <!-- [![Website][website-prod-shield]][website-prod-link] -->
+<br>
+<div>
+  <p>
+    CourseUp is a website built to simplify the experience of searching courses
+    and building timetables for the
+    <a href="https://uvic.ca" target="_blank" rel="noopener noreferrer"
+      >University of Victoria</a
+    >
+    (UVic).
+  </p>
+</div>
 
 ### Development and Contribution
 
