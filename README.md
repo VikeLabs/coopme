@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <a href="https://github.com/VikeLabs/Co-op-Me">
     <img src="https://capsule-render.vercel.app/api?type=rect&height=103&color=dark&text=coopme&fontColor=ffffff">
   </a>
