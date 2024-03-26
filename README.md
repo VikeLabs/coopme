@@ -12,7 +12,7 @@
 
 <div>
   <p>
-    CourseUp is a website built to simplify the experience of searching for co-op's for students at 
+    CoopMe is a website built to simplify the experience of searching for co-op's for students at 
     <a href="https://uvic.ca" target="_blank" rel="noopener noreferrer"
       >University of Victoria</a
     >
