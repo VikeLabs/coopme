@@ -1,4 +1,8 @@
-<div align="left"><a href="https://github.com/VikeLabs/Co-op-Me"><img src="https://capsule-render.vercel.app/api?type=rect&height=103&color=dark&text=coopme&fontColor=ffffff"></a></div>
+<div align="left">
+  <a href="https://github.com/VikeLabs/Co-op-Me">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=103&color=dark&text=coopme&fontColor=ffffff">
+  </a>
+</div>
 
 [![Contributors][contributors-shield]][contributors-link]
 [![Stargazers][stars-shield]][stars-link]
@@ -6,7 +10,6 @@
 <!-- [![Website][website-staging-shield]][website-staging-link] -->
 <!-- [![Website][website-prod-shield]][website-prod-link] -->
 
-<br>
 <div>
   <p>
     CourseUp is a website built to simplify the experience of searching courses
@@ -20,7 +23,7 @@
 
 ### Development and Contribution
 
-We are utilizing Next.js for routing and React as the front-end library, along with TypeScript for static type-checking. On the back-end, we are using MySQL as the database management system along with Prisma as the Object-Relational Mapping (ORM) tool to interact with the database. Additionally, we are incorporating shadcn-ui, more about that below!
+We are utilizing Next.js for routing, along with TypeScript for static type-checking, MySQL on the back-end along with Prisma as the Object-Relational Mapping (ORM) tool to interact with the DBMS.
 
 We're at an early stage of development for this project, and we're actively seeking developers to join our team. If you're interested contributing and developing this application, please feel free to leave a message in the _Team-Formation/project-formation_ in the **VikeLabs' Discord Server**, or contact the developers for this project.
 
