@@ -1,9 +1,11 @@
 <div align="left"><a href="https://github.com/VikeLabs/Co-op-Me"><img src="https://capsule-render.vercel.app/api?type=rect&height=103&color=dark&text=coopme&fontColor=ffffff"></a></div>
+
 [![Contributors][contributors-shield]][contributors-link]
 [![Stargazers][stars-shield]][stars-link]
 [![Issues][issues-shield]][issues-link]
 <!-- [![Website][website-staging-shield]][website-staging-link] -->
 <!-- [![Website][website-prod-shield]][website-prod-link] -->
+
 <br>
 <div>
   <p>
