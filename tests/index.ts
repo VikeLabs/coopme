@@ -12,7 +12,7 @@ const PASSWORD = 'password_uvic_netlink_id'
  * to the Co-op postings page
  */
 const main = async () => {
-    const browser: Browser = await puppeteer.launch({ headless: true });                                        // Launch headless Chromium browser
+    const browser: Browser = await puppeteer.launch({ headless: true });                                        // Launch ChromiumTest browser
     const page = await browser.newPage();                                                                       // Create a new page
     const pages = await browser.pages();                                                                        // Get all open pages
     if (pages.length > 1) { await pages[0].close(); }                                                           // Close the first page if it is not the login page
@@ -31,7 +31,7 @@ const main = async () => {
             await new Promise(resolve => setTimeout(resolve, 300));                                             // Wait for 300ms
             try {                                                                                               // Try to find the "Login denied" error message
                 await page.waitForSelector('#dont-trust-browser-button', { visible: true, timeout: 5000 });     // Wait for the button to load and be visible
-                await page.click('#dont-trust-browser-button');                                                                                                // Click the button
+                await page.click('#dont-trust-browser-button');                                                 // Click the button
             } catch (error) {                                                                                   // If the button is not found or times out
                 const errorMessage = await page.evaluate(() => {                                                // Get the error message (if any)
                     const element = document.querySelector('.prompt4-header-text-with-icon');
@@ -45,7 +45,6 @@ const main = async () => {
             if (page.url() === 'https://learninginmotion.uvic.ca/myAccount/dashboard.htm') { break; }           // If the user is logged in, break the loop
         }
     } else { await new Promise(resolve => setTimeout(resolve, 5000)); }                                         // If the user is already logged in, wait for 5 seconds
-
-    await browser.close();                                                                                      // Close the browser
+    await browser.close();                                                                                      // closes the ChromiumTest browser
 }
 main()
