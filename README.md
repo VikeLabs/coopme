@@ -32,7 +32,7 @@ Shadcn is a collection of pre-built UI components that offer a quick and easy wa
 
 ### About VikeLabs
 
-This project was developed by students at the [University of Victoria](https://www.uvic.ca) as part of [VikeLabs](https://vikelabs.ca), which is a student-led software development club.
+This project is currently being developed by students at the [University of Victoria](https://www.uvic.ca) as part of [VikeLabs](https://vikelabs.ca), which is a student-led software development club.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
