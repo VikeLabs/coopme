@@ -14,13 +14,11 @@
   <p>
     CoopMe is a website built to simplify the experience of searching for co-op's for students based in
     <a href="https://www.openstreetmap.org/relation/390867#map=5/55.003/-124.980" target="_blank" rel="noopener noreferrer"
-      >British Columbia</a
-    >
-    (UVic).
+      >British Columbia</a>.
   </p>
 </div>
 
-### Development 
+### Development
 
 - [Next.js](https://nextjs.org/) – Framework
 - [Typescript](https://www.typescriptlang.org/) – Language
@@ -33,12 +31,14 @@
 - [Vercel](https://vercel.com/) – Hosting
 
 ### Contributions
+
   <div align="left">
     If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
   </div>
 
 ### About VikeLabs
-  This project is currently being developed by students at the [University of Victoria](https://www.uvic.ca) as part of [VikeLabs](https://vikelabs.ca). VikeLabs is a student-led software development club at UVic.
+
+This project is currently being developed by students at the [University of Victoria](https://www.uvic.ca) as part of [VikeLabs](https://vikelabs.ca). VikeLabs is a student-led software development club at UVic.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
