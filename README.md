@@ -40,6 +40,44 @@
 
 This project is currently being developed by students at the [University of Victoria](https://www.uvic.ca) as part of [VikeLabs](https://vikelabs.ca). VikeLabs is a student-led software development club at UVic.
 
+### Directory Structure
+
+```
+├── LICENSE
+├── README.md
+├── README1.md
+├── components.json
+├── direc.sh
+├── next-env.d.ts
+├── next.config.mjs
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── route.sh
+├── tailwind.config.ts
+├── tsconfig.json
+├── app/
+│   ├── favicon.ico
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── page.tsx
+├── components/
+│   ├── ui/
+│   │   ├── table.tsx
+├── lib/
+│   ├── utils.ts
+├── public/
+│   ├── next.svg
+│   ├── vercel.svg
+├── tests/
+│   ├── cookies.json
+│   ├── index.ts
+│   ├── package.json
+│   ├── result.json
+│   ├── tsconfig.json
+│   ├── yarn.lock
+```
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/VikeLabs/Co-op-Me?style=flat
