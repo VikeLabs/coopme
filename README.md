@@ -44,6 +44,7 @@ This project is currently being developed by students at the [University of Vict
 
 ```
 ├── LICENSE
+├── README.md
 ├── README1.md
 ├── components.json
 ├── direc.sh
