@@ -27,7 +27,6 @@
 - [Prisma](https://prisma.io) - ORM
 - [PostgreSQL](https://www.postgresql.org/) - Database
 - [NextAuth.js](https://next-auth.js.org/) – Authentication
-- [Stripe](https://stripe.com) – Payments
 - [Vercel](https://vercel.com/) – Hosting
 
 ### Contributions
